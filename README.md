@@ -3,7 +3,7 @@
 - Meu nome é João Paulo 
 -
 - Estou estudando na Alura e na escola vespertino pimpão
-- Estou trabalhando em uma firma de manutençõe, bem perto da minha casa
+- Estou trabalhando em uma firma de manutenções, bem perto da minha casa
 - Utilizo esse espaço para organização e compartilhamento dos meus projetos em desenvolvimento.
 
 - Rede social para vc entrar em contato comigo:
